@@ -50,4 +50,21 @@ h1, h2 {
 
 a {
     text-decoration: none;
+    color: #fd8a24;
+    font-weight: 700;
+}
+
+.container {
+    max-width: 648px;
+    margin: auto;
+}
+
+p {
+    font-size: 20px;
+    line-height: 32px;
+}
+
+.cta {
+    font-size: 20px;
+    margin: 30px 0;
 }
